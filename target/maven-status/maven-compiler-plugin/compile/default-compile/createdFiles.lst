@@ -1,0 +1,11 @@
+controller\DocumentController.class
+config\CustomAsyncExceptionHandler.class
+bean\WatermarkJournal.class
+bean\Book.class
+config\SpringAsyncConfig.class
+bean\Document.class
+bean\Journal.class
+bean\Watermark.class
+config\AppConfig.class
+bean\IDocument.class
+bean\WatermarkBook.class

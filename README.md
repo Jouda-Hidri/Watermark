@@ -1,5 +1,5 @@
 # Watermark
-A webservice to watermark books. Spring/Test
+A webservice to watermark books. Spring/JUnit
 
 ## Technologies used in the project
 * **JDK** 1.7
